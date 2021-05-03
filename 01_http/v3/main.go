@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com\ZouXinyao\learn_gee\01_http\v3\gee"
+	"github.com/ZouXinyao/learn_gee/01_http/v3/gee"
 	"net/http"
 )
 
